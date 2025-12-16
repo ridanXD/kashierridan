@@ -1,4 +1,9 @@
 <resources>
     <string name = "app_name">Kazhier</string>
     <string name = "search_bar_hint">Cari barang...</string>
+    <string name = "save_button_label">Simpan</string>
+    <string name = "total_price_label">Total Harga</string>
+    <string name="add_item_fab_label">Buat Barang</string>
+    <string name="music_label">🎵</string>
+    <string nama ="selected_item_label">rusdi</string>
 </resources>
